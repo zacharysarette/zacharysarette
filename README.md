@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 - 🌱 I’m currently learning Data Science with Python.
 - 👯 I’m looking to collaborate on interesting projects in Education and Science
