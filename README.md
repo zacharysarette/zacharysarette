@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently hosting a game jam while working on a shmup.
+- 🌱 I’m currently working on a game with no engine.
 - 👯 I’m looking to collaborate on interesting projects in Games and Science.
 - 🔭 I’ve built a puzzle game where you control multiple bakers simultaneously combining ingredients and items to serve customers doughnuts. 🍩
 
